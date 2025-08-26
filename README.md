@@ -49,14 +49,14 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight" alt="stats" /></td>
     <td><img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" /></td>
   </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" /></td>
+    
+  </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight&hide=contribs,issues&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Snake" />
+  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
