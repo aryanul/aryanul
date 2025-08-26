@@ -56,6 +56,6 @@
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandakar-aryanul-haque){:target="_blank" rel="noopener noreferrer"}  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanul){:target="_blank" rel="noopener noreferrer"}  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanul2004@gmail.com){:target="_blank" rel="noopener noreferrer"}
+<a href="https://www.linkedin.com/in/khandakar-aryanul-haque" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
+<a href="https://github.com/aryanul" target="_blank" rel="noopener noreferrer">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>  
+<a href="mailto:aryanul2004@gmail.com" target="_blank" rel="noopener noreferrer">![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
