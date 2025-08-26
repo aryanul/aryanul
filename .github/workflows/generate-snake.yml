@@ -20,6 +20,16 @@ jobs:
           github_user_name: aryanul
           svg_out_path: output/github-contribution-grid-snake.svg
           
+      - name: Check if snake was generated
+        run: |
+          if [ -f "output/github-contribution-grid-snake.svg" ]; then
+            echo "Snake generated successfully"
+            ls -la output/
+          else
+            echo "Snake file not found"
+            ls -la
+          fi
+          
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
