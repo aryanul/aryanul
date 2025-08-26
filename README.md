@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" />
+  <img src="assets/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Khandakar Aryanul Haque</h1>
@@ -36,26 +36,26 @@
 ---
 
 ## 🚀 Projects
-- 🔹 <a href="https://ai-b2b-saas.onrender.com" target="_blank">AI B2B SaaS</a> – Social media & product analytics dashboard  
-- 🔹 <a href="https://frontend-chatbot-u7pk.onrender.com/" target="_blank">AI-Chatbot</a> – Career guidance chatbot with 85% query resolution  
-- 🔹 <a href="https://aryanul.github.io/Solar-System-3JS/" target="_blank">3D Solar System Simulation</a> – Interactive Three.js simulation  
-- 🔹 <a href="https://parkit-frontend.onrender.com/" target="_blank">ParkIt</a> – Parking management platform (Web + Android)
+- 🔹 <a href="https://ai-b2b-saas.onrender.com" target="_blank" rel="noopener noreferrer">AI B2B SaaS</a> – Social media & product analytics dashboard  
+- 🔹 <a href="https://frontend-chatbot-u7pk.onrender.com/" target="_blank" rel="noopener noreferrer">AI-Chatbot</a> – Career guidance chatbot with 85% query resolution  
+- 🔹 <a href="https://aryanul.github.io/Solar-System-3JS/" target="_blank" rel="noopener noreferrer">3D Solar System Simulation</a> – Interactive Three.js simulation  
+- 🔹 <a href="https://parkit-frontend.onrender.com/" target="_blank" rel="noopener noreferrer">ParkIt</a> – Parking management platform (Web + Android)
 
 ---
 
-## 📊 GitHub Stats & Animations
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandakar-aryanul-haque)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanul)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanul2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khandakar-aryanul-haque){:target="_blank" rel="noopener noreferrer"}  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanul){:target="_blank" rel="noopener noreferrer"}  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanul2004@gmail.com){:target="_blank" rel="noopener noreferrer"}
