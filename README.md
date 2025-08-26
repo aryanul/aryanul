@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/XdV9Kfb.gif)
+![Banner](https://raw.githubusercontent.com/aryanul/aryanul/main/assets/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Khandakar Aryanul Haque</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | B.Tech CSE @ Techno India University</h3>
@@ -44,10 +44,10 @@
 ## 📊 GitHub Stats & Animations
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanul&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" />
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg)
 
 ---
 
