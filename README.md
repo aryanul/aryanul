@@ -44,18 +44,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+</div>
 
 ---
 
