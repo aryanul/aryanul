@@ -50,14 +50,14 @@
     <td><img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" /></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" /></td>
-    
+    <td><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" /></div></td>
+    <td><div align="center">
+  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div></td>
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</div>
+
 
 ---
 
