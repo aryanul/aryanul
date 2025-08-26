@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/aryanul/aryanul/main/assets/banner.gif)
+<p align="center">
+  <img src="assets/banner.gif" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Khandakar Aryanul Haque</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | B.Tech CSE @ Techno India University</h3>
@@ -34,10 +36,10 @@
 ---
 
 ## 🚀 Projects
-- 🔹 [AI B2B SaaS](https://ai-b2b-saas.onrender.com) – Social media & product analytics dashboard  
-- 🔹 [AI-Chatbot](https://frontend-chatbot-u7pk.onrender.com/) – Career guidance chatbot with 85% query resolution  
-- 🔹 [3D Solar System Simulation](https://aryanul.github.io/Solar-System-3JS/) – Interactive Three.js simulation  
-- 🔹 [ParkIt](https://parkit-frontend.onrender.com/) – Parking management platform (Web + Android)
+- 🔹 <a href="https://ai-b2b-saas.onrender.com" target="_blank">AI B2B SaaS</a> – Social media & product analytics dashboard  
+- 🔹 <a href="https://frontend-chatbot-u7pk.onrender.com/" target="_blank">AI-Chatbot</a> – Career guidance chatbot with 85% query resolution  
+- 🔹 <a href="https://aryanul.github.io/Solar-System-3JS/" target="_blank">3D Solar System Simulation</a> – Interactive Three.js simulation  
+- 🔹 <a href="https://parkit-frontend.onrender.com/" target="_blank">ParkIt</a> – Parking management platform (Web + Android)
 
 ---
 
@@ -47,7 +49,9 @@
   <img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" />
 </p>
 
-![GitHub Snake](https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
 ---
 
