@@ -50,7 +50,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
