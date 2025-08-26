@@ -44,17 +44,19 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=aryanul&show_icons=true&theme=tokyonight" alt="stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=aryanul&theme=tokyonight" alt="streak" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanul&theme=tokyonight&layout=compact" alt="top-langs" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
