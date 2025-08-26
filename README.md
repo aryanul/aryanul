@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aryanul/aryanul/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/aryanul/aryanul/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
