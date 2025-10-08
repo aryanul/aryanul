@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner.png" alt="Banner" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Khandakar Aryanul Haque</h1>
 <h3 align="center">Full Stack Developer | Tech Enthusiast | B.Tech CSE @ Techno India University</h3>
